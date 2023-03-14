@@ -12,12 +12,12 @@ def __ProgramaFor__(n):  # definimos la funcion que recibe el numero de elemento
     return  # regresamos el arreglo
 
  # Programa 2
-def __ProgramaIf__(a):  # Definimos la funcion que recibe el valor de a
-    b = a**2  # Elevar a a la 2
-    if b == 0:  # Si b es igual a 0
-        print("Es 0")  # Imprimir Es 0
-    else:  # Si no
-        print("Es Distinto a 0")  # Imprimir Es Distinto a 0
+def __ProgramaIf__(a): 
+    b = a**2  
+    if b == 0:  
+        print("Es 0") 
+    else:  
+        print("Es Distinto a 0") 
 
 
 # Programa 3
